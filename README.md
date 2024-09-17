@@ -17,5 +17,7 @@ This is a simple image gallery built with React, which fetches images from an AP
 3. Run the app
   - npm start
 
+![Screenshot 1 ](https://github.com/pallavicops/image-gallery/blob/master/src/assets/Screenshot%202024-09-17%20170041.png)
+
    
   
