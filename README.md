@@ -13,9 +13,9 @@ This is a simple image gallery built with React, which fetches images from an AP
 
 1. Clone the repository
 2. Install dependencies
-   npm install
+  - npm install
 3. Run the app
-   npm start
+  - npm start
 
    
   
